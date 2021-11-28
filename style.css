@@ -1,0 +1,63 @@
+html,body{
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;
+}
+
+.top-header{
+    background-color: rgba(0, 132, 255, 0.884);
+    font-family: 'Salsa', cursive;
+}
+
+.menu-item{
+    color: rgba(0, 0, 0, 0.767);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.brand{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.main-content{
+    max-width: 800px;
+    margin: auto;
+}
+
+.box{
+    background-color: rgba(255, 255, 255, 0.89);
+    padding: 20px;
+    margin: 30px;
+}
+
+.name{
+    font-family: 'Capriola', sans-serif;
+}
+
+.image{
+    width: 100%;
+}
+
+.text{
+    font-family: 'Kalam', cursive;
+}
+
+.button{
+    color: rgba(0, 0, 0, 0.651);
+    background-color: lightgray;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Sofadi One', cursive;
+}
+
+.botton-footer{
+    background-color: rgba(0, 132, 255, 0.884);
+    padding: 14px;
+}
+
+.text-footer{
+    font-size: 12px;
+}
